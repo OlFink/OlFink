@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I built my first neural network in 2001. The employer, Huawei, was not interested at that time. :)
 
 Languages and Tools:
-python mysql pandas scikit_learn seaborn tensorflow docker gcp git
+python mysql pandas scikit_learn seaborn tensorflow pytorch docker gcp git
